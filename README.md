@@ -18,6 +18,7 @@ Based on the cancer dataset and the same percentage of variance (i.e., 91% of th
 
 ## List of files
 - README.md : README file
+- Project Presentation.ppt : Slides for presentations
 - PCLR.ipynb : Google Colab codes with results for PCLR analysis
 - PLSLR.ipynb : Google Colab codes with results for PLSLR analysis
 - Leukemia_Dataset.csv : Cancer Dataset

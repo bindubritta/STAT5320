@@ -16,6 +16,13 @@ The characteristics of this dataset are
 ## Remarks
 Based on the cancer dataset and the same percentage of variance (i.e., 91% of the total) explained by different PCA and PLS components, the PLSLR model outperformed the PCLR model. The result was verified with multiple subsets of the cancer dataset. However, the PLSLR result demands further in-depth investigation with other datasets to confirm it was not overfitted. Finally, this project found another method named Partial Least-Squares Discriminant Analysis (PLS-DA), a variant used for the categorical response variable, interesting to analyze this cancer dataset.
 
+## List of files
+- README.md : README file
+- PCLR.ipynb : Google Colab codes with results for PCLR analysis
+- PLSLR.ipynb : Google Colab codes with results for PLSLR analysis
+- Leukemia_Dataset.csv : Cancer Dataset
+- journal.pone.0246039.s001.csv
+
 ## References
 1. T. R. Golub, D. K. Slonim, P. Tamayo, C. Huard, M. Gaasenbeek, J. P. Mesirov, H. Coller, M. L. Loh, J. R. Downing, M. A. Caligiuri, C. D. Bloomfield, and E. S. Lander, “Molecular classification of cancer: class discovery and class prediction by gene expression monitoring,” Science, no. 5439, pp. 531–537, 1999.
 2. S. S. Hameed, F. F. Muhammad, R. Hassan, and F. Saeed, “Gene Selection and Classification in Microarray Datasets using a Hybrid Approach of PCC-BPSO/GA with Multi Classifiers,” Journal of Computer Science, vol. 14, no. 6, pp. 868–880, 2018.

@@ -22,7 +22,6 @@ Based on the cancer dataset and the same percentage of variance (i.e., 91% of th
 - PCLR.ipynb : Google Colab codes with results for PCLR analysis
 - PLSLR.ipynb : Google Colab codes with results for PLSLR analysis
 - Leukemia_Dataset.csv : Cancer Dataset
-- journal.pone.0246039.s001.csv
 
 ## References
 1. T. R. Golub, D. K. Slonim, P. Tamayo, C. Huard, M. Gaasenbeek, J. P. Mesirov, H. Coller, M. L. Loh, J. R. Downing, M. A. Caligiuri, C. D. Bloomfield, and E. S. Lander, “Molecular classification of cancer: class discovery and class prediction by gene expression monitoring,” Science, no. 5439, pp. 531–537, 1999.
